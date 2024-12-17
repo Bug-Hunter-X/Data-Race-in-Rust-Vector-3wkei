@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error: accessing elements of a vector after it has been reallocated.  This can lead to unpredictable behavior and data races. The `bug.rs` file shows the buggy code, and `bugSolution.rs` provides a corrected version.
